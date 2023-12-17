@@ -12,10 +12,10 @@
         Color Picker For Mac
       </h1>
       <div class="mt-10 max-sm:flex-col max-sm:gap-5 flex items-center justify-center gap-x-6">
-        <a href="#"
+        <a href="https://github.com/sinarahmany/ColorSnap-app-macos/releases/download/v1.0.0/Color.Snap-1.0.0-arm64.dmg"
            class="rounded-md bg-red-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-red-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Download
           Color Splash (ARM)</a>
-        <a href="#" class="text-sm font-semibold leading-6 text-white">Color Splash (x86) <span
+        <a href="https://github.com/sinarahmany/ColorSnap-app-macos/releases/download/v1.0.0/Color.Snap-1.0.0-x64.dmg" class="text-sm font-semibold leading-6 text-white">Color Splash (x86) <span
             aria-hidden="true">→</span></a>
       </div>
     </div>

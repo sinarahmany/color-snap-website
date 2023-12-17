@@ -21,7 +21,7 @@
       <div class="hidden lg:flex lg:gap-x-12 items-center">
         <NuxtLink v-for="item in navigation" :key="item.name" :to="item.href"
            :class="['text-sm font-semibold leading-6 text-gray-400']">{{ item.name }}</NuxtLink>
-        <a href="#"
+        <a href="https://github.com/sinarahmany/ColorSnap-app-macos/releases/download/v1.0.0/Color.Snap-1.0.0-arm64.dmg"
            class="rounded-md bg-red-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-red-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400">Download for FREE</a>
       </div>
 
