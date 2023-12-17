@@ -3,10 +3,10 @@
     <nav class="flex items-center justify-between p-6 lg:px-8 max-w-7xl mx-auto" aria-label="Global">
       <div class="flex lg:flex-1">
         <a href="#" class="-m-1.5 p-1.5">
-          <span class="sr-only">Color Splash</span>
+          <span class="sr-only">Color Snap</span>
           <span class="flex items-center gap-2">
              <NuxtImg class="h-12 w-auto" src="/img/logo.png" densities="x1 x2" format="webp" height="50" alt="Logo" loading="lazy"/>
-            <p class="text-lg font-semibold tracking-tight text-white ">Color Splash</p>
+            <p class="text-lg font-semibold tracking-tight text-white ">Color Snap</p>
           </span>
 
         </a>
@@ -32,7 +32,7 @@
           class="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-gray-900 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-white/10">
         <div class="flex items-center justify-between">
           <a href="#" class="-m-1.5 p-1.5">
-            <span class="sr-only">Color Splash</span>
+            <span class="sr-only">Color Snap</span>
             <NuxtImg class="h-12 w-auto" src="/img/logo.png" alt=""/>
           </a>
           <button type="button" class="-m-2.5 rounded-md p-2.5 text-gray-400" @click="mobileMenuOpen = false">
